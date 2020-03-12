@@ -1,6 +1,5 @@
 enable
 configure terminal
 hostname RT-01
-no ip domain-lookup
 exit
 wr
